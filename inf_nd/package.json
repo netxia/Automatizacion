@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "pruebas",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Gabriel Acevedo",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^3.0.0",
+    "express": "^4.17.1",
+    "json2xls": "^0.1.2",
+    "node-xlsx": "^0.15.0",
+    "xlsx": "^0.15.1",
+    "xml2js": "^0.4.22"
+  }
+}
