@@ -1022,14 +1022,5 @@
         }
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU3034",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.SignalR.Client 2.4.0' from source 'C:\\RPA\\UiPath\\app-19.4.2\\Packages': This package is signed but not by a trusted signer.",
-      "libraryId": "Microsoft.AspNet.SignalR.Client"
-    }
-  ]
+  }
 }
